@@ -1,0 +1,74 @@
+﻿body{
+	font-family: sans-serif;
+}
+
+nav{
+	box-shadow:  0 0 20px;
+}
+
+.logo{
+	margin-left: 5mm;
+}
+
+.name-button{
+	margin-left: 0mm;
+	font-family: serif;
+	font-size: 18pt;
+}
+
+.logo{
+	width: auto;
+    height: 50px;
+    margin-right: 5px;
+}
+
+.main-div{
+	margin-top: 7mm;
+	margin-bottom: 7mm;
+	margin-left: 7%;
+	margin-right: 7%;
+}
+
+.item1{
+	border-style: solid;
+	border-radius: 20px;
+	border-color: lightgray;
+	padding: 10px;
+}
+
+.console{
+	width: 40%;
+	height: auto;
+	border-radius: 15px;
+}
+
+.accs{
+	width: 17%;
+	height: auto;
+	border-radius: 15px;
+}
+
+.cons-txt{
+	overflow-wrap: break-word;
+}
+
+.discount{
+	text-decoration: line-through;
+}
+
+.new-price{
+	color: red;
+}
+
+.gamebox{
+	width: 20%;
+	height: auto;
+	border-radius: 15px;
+}
+
+#about{
+	margin-top: 20mm;
+	margin-bottom: 7mm;
+	margin-left: 25%;
+	margin-right: 25%;
+}
